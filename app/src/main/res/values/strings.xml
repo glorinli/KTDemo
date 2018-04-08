@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KTDemo</string>
+    <string name="hello_kt">Hello kotlin</string>
+</resources>
